@@ -1,5 +1,5 @@
 # Lab 2: Group Policy Management
-
+ 
 ## Overview
 <img width="328" height="365" alt="GPM" src="https://github.com/user-attachments/assets/8054842c-a51f-41b0-b4ea-edf3e2c35ab2" />
 
